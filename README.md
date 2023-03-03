@@ -2,8 +2,8 @@
 
 ## Description
 
-For this assignment, we were given code in HTML and CSS and tasked with refactoring some elements to semantic elements.
-THis is a seo based website going over 
+This is a seo based website going over search engine optimization, online reputation management, and social media marketing for the company Horisean. The company asked for the website to be more accessible which was accomplished by changing code to semantic elements.
+
 ## Table of Contents (Optional)
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
