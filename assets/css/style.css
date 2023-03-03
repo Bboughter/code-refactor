@@ -28,7 +28,7 @@ header h1 .seo {
 }
 
 header nav {
-     /* changed from class selector to element selector */
+    /* changed from class selector to element selector */
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -37,12 +37,12 @@ header nav {
 }
 
 header nav ul {
-     /* changed from class selector to element selector */
+    /* changed from class selector to element selector */
     list-style-type: none;
 }
 
 header nav ul li {
-     /* changed from class selector to element selector */
+    /* changed from class selector to element selector */
     display: inline-block;
     margin-left: 25px;
 }
@@ -68,13 +68,14 @@ footer h2 {
     /* changed from class selector to element selector */
     font-size: 20px;
 }
+
 /* moved footer to above the class selectors */
 
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    /* background-image: url("../images/digital-marketing-meeting.jpg"); added img to html*/
     background-size: cover;
     background-position: center;
 }

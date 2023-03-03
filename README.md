@@ -3,7 +3,7 @@
 ## Description
 
 For this assignment, we were given code in HTML and CSS and tasked with refactoring some elements to semantic elements.
-
+THis is a seo based website going over 
 ## Table of Contents (Optional)
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
@@ -15,7 +15,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+No installation steps required. Webpage can be accessed directly at 
 
 ## Usage
 
