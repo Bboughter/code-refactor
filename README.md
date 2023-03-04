@@ -2,11 +2,9 @@
 
 ## Description
 
-This is a seo based website going over search engine optimization, online reputation management, and social media marketing for the company Horisean. The company asked for the website to be more accessible which was accomplished by changing code to semantic elements.
+This is a seo based website going over search engine optimization, online reputation management, and social media marketing for the company Horisean. The company asked for the codebase to folow accesibilty standards and to be optimized for search engines. This was accomplished by updating some code to semantic elements and reflecting the changes to the HTML in the CSS. 
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents 
 
 - [Installation](#installation)
 - [Usage](#usage)
