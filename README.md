@@ -16,8 +16,8 @@ No installation steps required. Webpage can be accessed directly at https://bbou
 ## Usage
 >This layout is designed for desktop viewing only.
 
-    ```md
+    
     ![Screenshot 2023-03-03 205930](https://user-images.githubusercontent.com/113574704/222876863-3aec4916-cc37-409d-b23a-a079ef16f4e6.png)
     ![Screenshot 2023-03-03 210006](https://user-images.githubusercontent.com/113574704/222876889-9a44ba19-5aaf-41d4-a9cc-ce19fc3638a5.png)
     ![Screenshot 2023-03-03 210025](https://user-images.githubusercontent.com/113574704/222876899-6e6c6f0a-ae36-4748-8af5-136f4c6b6d97.png)
-    ```
+    
