@@ -11,15 +11,13 @@ This is a seo based website going over search engine optimization, online reputa
 
 ## Installation
 
-No installation steps required. Webpage can be accessed directly at 
+No installation steps required. Webpage can be accessed directly at https://bboughter.github.io/code-refactor/.
 
 ## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 >This layout is designed for desktop viewing only.
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![Screenshot 2023-03-03 205930](https://user-images.githubusercontent.com/113574704/222876863-3aec4916-cc37-409d-b23a-a079ef16f4e6.png)
+    ![Screenshot 2023-03-03 210006](https://user-images.githubusercontent.com/113574704/222876889-9a44ba19-5aaf-41d4-a9cc-ce19fc3638a5.png)
+    ![Screenshot 2023-03-03 210025](https://user-images.githubusercontent.com/113574704/222876899-6e6c6f0a-ae36-4748-8af5-136f4c6b6d97.png)
     ```
